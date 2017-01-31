@@ -647,7 +647,7 @@ getLastOrder( function orderFound(order){
 
 The "points" we'd like to remove are the `order` and `person` parameter references.
 
-Let's start by trying to get the `person` "point" out of the `personFound(..)` function. To do so, let's first to define:
+Let's start by trying to get the `person` "point" out of the `personFound(..)` function. To do so, let's first define this:
 
 ```js
 function extractName(person) {
