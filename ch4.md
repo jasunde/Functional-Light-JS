@@ -81,7 +81,7 @@ Back to the candy factory assembly line: the first machine takes as "input" the 
 
 The candy factory is fairly successful with this process, but as with all businesses, management keeps searching for ways to grow.
 
-To keep up with demand for more candy production, they decide to take out the conveyor belt contraption and just stack all three machines on top of each other, so that the output valve of one is connected directly to the input valve of the one below it. There's no longer sprawling wasted space where a chunk of chocolate slowly and noisly rumbles down a conveyor belt from the first machine to the second.
+To keep up with demand for more candy production, they decide to take out the conveyor belt contraption and just stack all three machines on top of each other, so that the output valve of one is connected directly to the input valve of the one below it. There's no longer sprawling wasted space where a chunk of chocolate slowly and noisily rumbles down a conveyor belt from the first machine to the second.
 
 This innovation saves a lot of room on the factory floor, so management is happy they'll get to make more candy each day!
 
